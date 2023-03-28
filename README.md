@@ -7,7 +7,7 @@ The process of making inferences about the overall population by conducting some
 ## x-bar				
 The arithmetic mean
 
-## \mu_0
+## mu_0
 The value the null hypothesis is being tested against
 
 ## n
