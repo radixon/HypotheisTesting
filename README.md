@@ -1,23 +1,26 @@
-# HypotheisTesting
+# Hypotheis
 The average alcohol content of Red Wine and White Wine are equal when wine is of above average quality.  Above average is defined as quality at 7 or above.
 
-## Hypothesis Testing
-The process of making inferences about the overall population by conducting some statistical tests on a sample.  Null and alternate hypotheses are ways to validate whether an assumption is statistically significant.
+## Hypothesis
+mu_{white} = mu_{red}
 
 ## x-bar				
-The arithmetic mean
+The arithmetic mean alcohol content of White Wine: 14.364
 
 ## mu_0
-The value the null hypothesis is being tested against
+The value the null hypothesis is being tested against: 11.518
 
 ## n
-Sample size
+Sample size of White Wine with Quality at or above 7: 1060
 
 ## Test Statistic
-A test statistic measures the agreement between a sample of data and the null hypothesis
+Measurement of the agreement between a sample of data and the null hypothesis: -2.646
 
 ## Critical Value
-A critical value defines regions in the sampling distribution of a test statistic.  Critical values account for uncertainty in sample data used to make inferences about a population
+Measurement of uncertainty in sample data used to make inferences about a population: -1.646
 
 ## p-value
-The probability of obtaining a test statistic result is at least as extreme as the test statistic observed, assuming the null hypothesis is true.
+The probability of obtaining a test statistic result is at least as extreme as the test statistic observed, assuming the null hypothesis is true: 0.008
+
+# Results
+With a test statistic of -2.646 being less than the critical value of -1.646, reject the null hypothesis.  Also, with a p-value less than 0.05, reject the null hypothesis.
